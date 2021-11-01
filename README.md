@@ -7,11 +7,11 @@
 ## Web Programming
 * Project S
 
-## Misc
-### ModPE Script
+## ModPE Script
 * 초능력자 대전
 * Dark Cheater
-### KakaoTal Bot
+
+## KakaoTalk Bot
 * Project S
 * Project M
 * Project E
