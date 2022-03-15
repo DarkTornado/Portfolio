@@ -178,7 +178,7 @@ gulp.task( "img", () => {
         silent: true
       } ) )
       .pipe( imagemin() )
-      .pipe( gulp.dest( "assets/img/posts/" ) );
+      .pipe( gulp.dest( "assets/images/" ) );
 } );
 
 // Build the Jekyll Site
