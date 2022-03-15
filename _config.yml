@@ -28,7 +28,7 @@ navigation: # Navigation links
 tagline: >
   Android Application & Web Developer
 
-main_background: DarkTornado+.png # Main background image: use the path from /assets/img/ => This will output /assets/images/sleek_lg.jpg
+main_background: DarkTornado.png # Main background image: use the path from /assets/img/ => This will output /assets/images/sleek_lg.jpg
 
 email: dt3141592@naver.com # email for form submission
 
