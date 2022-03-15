@@ -1,22 +1,57 @@
-# Site settings
-title: Dark Tornado
-email: dt3141592@naver.com
-description: Dark Tornado's Blog
-url: "http://darktornado.github.io/Portfolio" # the base hostname & protocol for your site
-baseurl: "/" # the subpath of your site, e.g. /blog/
-copyright: '&copy; 2021 Dark Tornado, All rights reserved.'
+# Site Settings
+title: Mere Blog Theme
+tagline: Mere Blog Theme
+email: your-email@domain.com
+description: >
+  The demo site for Mere Blog Theme, made for Jekyll and GitHub pages websites
+baseurl: "/mere-blog-theme"
+url: "https://www.csrhymes.com"
+permalink: pretty
 
-# Build settings
-markdown: kramdown
+paginate: 6
+paginate_path: "/page:num"
 
-# Custom theme could be generated at: https://getmdl.io/customize/index.html
-material_theme: deep_purple-purple
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown
+  - rouge
 
-# Google Analytics account ID (UA-XXXXXXXX-X)
+exclude:
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
-google-analytics-ua: UA-84475574-1
+livereload: true
 
-# Misc
-github: 'https://github.com/DarkTornado'
-naver_blog: 'https://blog.naver.com/dt3141592'
-home_page: 'https://darktornado.develope.kr'
+sass:
+  style: compressed
+  source_dir: _sass
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "C.S. Rhymes"
+      layout: post
+      image: /img/home.jpg
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+
+collections:
+  authors:
+    output: true
