@@ -32,7 +32,6 @@ main_background: DarkTornado.png # Main background image: use the path from /ass
 
 email: dt3141592@naver.com # email for form submission
 
-twitter_username: dt3141592 # replace with your_twitter_username or comment to remove link from footer
 github_username: DarkTornado # replace with your_github_username or comment to remove link from footer
 instagram_username: _dt314 # replace with your_instagram_username or comment to remove link from footer
 
