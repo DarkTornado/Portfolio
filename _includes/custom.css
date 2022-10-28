@@ -1,0 +1,11 @@
+section.summary {
+    background-color: #f9f9f9;
+    padding-top: 30px;
+}
+
+div.summary_info {
+    background-color: white;
+    padding: 16px;
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}

@@ -5,5 +5,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Sleek Jekyll Theme
+title: Portfolio Summary
 ---
+
+Hello World!
