@@ -55,7 +55,14 @@ layout: compress
     {% include footer.html %}
 
     <script>
+      /* 커스텀 파서 비슷한 것 */
       var src = '{{ content }}';
+      var ss = src.split('<!--SPLIT_POINT-->');
+      src = ss[0];
+      src += '<div class=multi>';
+      src += '<div>' + ss[1] + '</div>';
+      src += '<div>' + ss[2] + '</div>';
+      src += '</div>';
       document.querySelector('div.summary_info').innerHTML = src;
     </script>
   </body>

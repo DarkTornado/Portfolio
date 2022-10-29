@@ -9,3 +9,7 @@ div.summary_info {
     border-radius: 4px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.08);
 }
+
+div.multi {
+    column-count: 2;
+}
