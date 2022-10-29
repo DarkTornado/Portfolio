@@ -32,7 +32,7 @@ layout: compress
       <section class="summary">
         <div class="container">
           <div class="summary_info">
-            {{ content }}
+            <!-- 커스텀 파서 비슷한걸 구현하기 위해 분리 -->
           </div>
         </div>
       </section>
@@ -54,6 +54,10 @@ layout: compress
 
     {% include footer.html %}
 
+    <script>
+      var src = '{{ content }}';
+      document.querySelector('div.summary_info').innerHTML = src;
+    </script>
   </body>
 
 </html>
