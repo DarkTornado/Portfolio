@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Project S"
-categories: blog
 featured-img: Liyuu.jpg
 ---
 

@@ -69,3 +69,8 @@ compress_html:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+collections:
+  pages:
+    output: true
+    permalink: /:title

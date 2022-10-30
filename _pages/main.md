@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Main"
-categories: blog
 featured-img: DarkTornado.png
 ---
 

@@ -42,7 +42,7 @@ layout: compress
         <div class="container">
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
-            {% for post in site.posts %}
+            {% for post in site.pages %} <!-- site.posts에서 site.pages로 변경 (파일 이름에 날짜 안써도 됨) -->
               {% include card.html %}
             {% endfor %}
 
