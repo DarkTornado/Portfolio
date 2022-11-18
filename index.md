@@ -9,7 +9,7 @@ title: Portfolio Summary
 ---
 
 # Hello World!
-* test
+* 원하는 기능을 가진 프로그램이 없다면, 직접 만들어서 사용하는 이상한 개발자 입니다.
 
 <!--SPLIT_POINT-->
 
