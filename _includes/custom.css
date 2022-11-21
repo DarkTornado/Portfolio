@@ -13,3 +13,7 @@ div.summary_info {
 div.multi {
     column-count: 2;
 }
+
+div.multi > div {
+    display: inline-block;
+}

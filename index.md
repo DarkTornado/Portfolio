@@ -24,6 +24,3 @@ title: Portfolio Summary
 
 ## Projects
 * test
-* test
-* test
-* test
