@@ -15,10 +15,12 @@ title: Portfolio Summary
 
 <!--SPLIT_POINT-->
 
-## Left
-* test
+## Skills
+* Main: Java, Javascript, Kotlin, HTML, CSS / Android App, Web
+* Sub: node.js, php, CoffeeScript, Lua
+* Seldom: swift, R / iOS App
 
 <!--SPLIT_POINT-->
 
-## Right
+## Projects
 * test
