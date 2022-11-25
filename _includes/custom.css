@@ -15,5 +15,5 @@ div.multi {
 }
 
 div.multi > div {
-    display: inline-block;
+    display: block;
 }
