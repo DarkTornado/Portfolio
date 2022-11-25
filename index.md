@@ -23,4 +23,8 @@ title: Portfolio Summary
 <!--SPLIT_POINT-->
 
 ## Projects
-* test
+* Project S
+* Project M
+* Project E
+* Project L
+* Project K
