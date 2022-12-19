@@ -30,3 +30,10 @@ title: Portfolio Summary
 * Project L
 * Project K
 * [See More...]({{site.baseurl}}/projects)
+
+<!--SPLIT_POINT-->
+
+***
+
+## Music Projects
+* Nox Fabula
