@@ -17,3 +17,10 @@ div.multi {
 div.multi > div {
     display: block;
 }
+
+/* For Mobile */
+@media screen and (max-width: 768px) {
+    div.multi {
+        column-count: 1;
+    }
+}
