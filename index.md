@@ -16,15 +16,17 @@ title: Portfolio Summary
 <!--SPLIT_POINT-->
 
 ## Skills
-* Main: Java, Javascript, Kotlin, HTML, CSS / Android App, Web
-* Sub: node.js, php, CoffeeScript, Lua
-* Seldom: swift, R / iOS App
+* Javascript & node.js
+* Android App (Java & Kotlin)
+* HTML & CSS
+* php
+* [See More...]({{site.baseurl}}/skills)
 
 <!--SPLIT_POINT-->
 
 ## Projects
 * Project S
 * Project M
-* Project E
 * Project L
 * Project K
+* [See More...]({{site.baseurl}}/projects)
