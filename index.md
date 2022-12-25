@@ -36,4 +36,6 @@ title: Portfolio Summary
 ***
 
 ## Music Projects
+* Ventus de Nox
 * Nox Fabula
+* Memoria Silva
