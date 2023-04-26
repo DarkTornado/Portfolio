@@ -4,7 +4,7 @@
 * Project S
 * Project K
 
-## Web Programming
+## Web
 * Project S
 
 ## ModPE Script
